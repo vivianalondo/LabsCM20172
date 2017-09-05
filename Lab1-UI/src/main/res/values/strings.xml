@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">LabsCM20172</string>
+    <string name="txtusuario">Usuario</string>
+    <string name="txtpassword">Contraseña</string>
+    <string name="btningresar">Ingresar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="salir">Salir</string>
+    <string name="config">Configuracion</string>
+    <string name="registrar">Registrar</string>
+    <string name="ok_register">Registro Exitoso</string>
+    <string name="erro_register">Registro No Exitoso</string>
+    <string name="field_required">Este campo es requerido</string>
+    <string name="field_incorrect">Email o contraseña incorrecta</string>
+    <string name="confirmarConstraseña">Confirmar contraseña</string>
+    <string name="name">Nombre</string>
+    <string name="lastname">Apellido</string>
+    <string name="genero">Genero</string>
+    <string name="femenino">Femenino</string>
+    <string name="masculino">Masculino</string>
+    <string name="fechaNacimiento">Fecha de nacimiento</string>
+    <string name="telefono">Telefono</string>
+    <string name="direccion">Direccion</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="enviarRegistro">Enviar Registro</string>
+    <string name="invalid_mail">El correo no es válido</string>
+    <string name="pass_no_equals">Las contraseñas no coinciden</string>
+    <string name="user_exists">El usuario ya existe</string>
+    <string name="info">Información</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="mensaje_edicion">Se ha modificado el registro</string>
+
+    <string-array name="cities_array">
+        <item>Leticia</item>
+        <item>Medellin</item>
+        <item>Arauca</item>
+        <item>Barranquilla</item>
+        <item>Cartagena</item>
+        <item>Tunja</item>
+        <item>Manizales</item>
+        <item>Florencia</item>
+        <item>Yopal</item>
+        <item>Popayan</item>
+        <item>Valledupar</item>
+        <item>Quibdo</item>
+        <item>Monteria</item>
+        <item>Bogota</item>
+        <item>Puerto Inirida</item>
+        <item>San Jose del Guaviare</item>
+        <item>Neiva</item>
+        <item>Riohacha</item>
+        <item>Santa Marta</item>
+        <item>Villavicencio</item>
+        <item>Pasto</item>
+        <item>Cúcuta</item>
+        <item>Mocoa</item>
+        <item>Armenia</item>
+        <item>Pereira</item>
+        <item>Santa Catalina</item>
+        <item>Bucaramanga</item>
+        <item>Sincelejo</item>
+        <item>Ibague</item>
+        <item>Cali</item>
+        <item>Mitu</item>
+        <item>Puerto Carreño</item>
+    </string-array>
+
+
+    <item name="visible" type="id" />
+    <item name="masked" type="id" />
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

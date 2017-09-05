@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/info"
+            android:icon="@drawable/ic_info"
+            android:tint="@color/blanco"
+            android:title="@string/info" />
+        <item
+            android:id="@+id/edit"
+            android:icon="@drawable/ic_edit"
+            android:tint="@color/blanco"
+            android:title="@string/actualizar" />
+        <item
+            android:id="@+id/action_exit"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:tint="@color/blanco"
+            android:title="@string/salir" />
+
+    </group>
+</menu>

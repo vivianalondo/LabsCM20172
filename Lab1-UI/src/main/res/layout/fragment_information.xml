@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".InformationFragment"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:baselineAligned="false"
+    android:weightSum="1">
+
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="match_parent"
+        android:layout_height="408dp"
+        android:layout_weight="0.35">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/viewName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="New Text"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/viewLastName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="New Text"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/viewEmail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="New Text"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/viewGender"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="New Text"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/viewDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="New Text"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/viewPhone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="New Text"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/viewAddress"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="New Text"
+                android:textSize="15dp" />
+
+            <TextView
+
+                android:id="@+id/viewCity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="New Text"
+                android:textSize="15dp" />
+
+            <ImageView
+                android:id="@+id/viewProfile"
+                android:layout_width="200dp"
+                android:layout_height="142dp"
+                android:layout_marginTop="20dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
